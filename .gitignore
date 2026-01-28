@@ -1,0 +1,60 @@
+# ======================
+# Build results
+# ======================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# ======================
+# Logs & temp
+# ======================
+[Ll]og/
+[Tt]emp/
+*.log
+*.cache
+
+# ======================
+# Visual Studio / Rider
+# ======================
+.vs/
+.idea/
+*.sln.iml
+CopilotIndices/
+DesignTimeBuild/
+FileContentIndex/
+v17/
+v18/
+
+# ======================
+# User-specific files
+# ======================
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ======================
+# NuGet
+# ======================
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Test artifacts
+# ======================
+TestResults/
+coverage/
